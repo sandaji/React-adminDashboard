@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
+  "author": "ijamy vincent",
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
